@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should match previous snapshot 1`] = `
+.kFNwvQ {
+  height: auto;
+  text-align: center;
+  outline-width: 0;
+  border-color: transparent;
+  border-radius: 2px;
+  color: #FFF;
+  background-color: #FFC70E;
+  -webkit-transition: .1s ease;
+  transition: .1s ease;
+}
+
+.kFNwvQ:focus:not([disabled]),
+.kFNwvQ:hover:not([disabled]) {
+  opacity: .625;
+}
+
+.kFNwvQ:disabled {
+  opacity: .25;
+}
+
+<button
+  className="sc-bdVaJa kFNwvQ"
+  color="#FFF"
+  disabled={false}
+  onClick={[Function]}
+/>
+`;

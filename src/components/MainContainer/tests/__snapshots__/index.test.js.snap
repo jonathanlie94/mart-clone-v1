@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should match previous snapshot 1`] = `
+.bLBEqh {
+  padding: 0.75rem;
+}
+
+<div
+  className="sc-bdVaJa bLBEqh"
+/>
+`;

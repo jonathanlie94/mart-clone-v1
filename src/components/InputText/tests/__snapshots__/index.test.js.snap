@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should match previous snapshot 1`] = `
+.jDMZsH {
+  font-family: Arial, sans-serif;
+  border-radius: 4px;
+  padding: 0.25rem;
+  margin: 0;
+  box-sizing: border-box;
+  width: 100%;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #C8C8C8;
+  background-color: #FFF;
+  outline-color: #00C3FF;
+  outline-width: 4px;
+}
+
+<InputText
+  className=""
+  error=""
+  onBlur={[Function]}
+  onChange={[Function]}
+  value="val"
+>
+  <div>
+    <styled.input
+      className=""
+      onBlur={[Function]}
+      onChange={[Function]}
+      value="val"
+    >
+      <input
+        className="sc-bdVaJa jDMZsH"
+        onBlur={[Function]}
+        onChange={[Function]}
+        type="text"
+        value="val"
+      />
+    </styled.input>
+  </div>
+</InputText>
+`;
